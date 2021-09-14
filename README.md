@@ -27,6 +27,7 @@ We Use the following command to convert USD to INR and convert all of the sales 
 
 Sales cannot be -1 <br>
 ![data-cleaning_to_do](https://user-images.githubusercontent.com/84023687/133242346-9c747581-9ff8-4ebe-ae3a-1d02a8bdd312.PNG)<br>
+Markets cannot be blank<br>
 ![market_data_clearning_to_do](https://user-images.githubusercontent.com/84023687/133242362-84cb1733-2edb-4b58-8066-0c4aca242ef1.PNG)<br><br><br>
 
 
